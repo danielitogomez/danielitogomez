@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **daniel.gomez.amaran@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1zDfknO7S6WPnaNNkhlHnI2gszEbrf17z?usp=sharing](https://drive.google.com/drive/folders/1zDfknO7S6WPnaNNkhlHnI2gszEbrf17z?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1zDfknO7S6WPnaNNkhlHnI2gszEbrf17z?usp=sharing]
 
 - ⚡ Fun fact **Cuban as born that not dance but play music, Chilean that cook "pastel de choclo" and person of this planet know as earth.**
 
@@ -31,7 +31,6 @@
 <a href="https://fb.com/danielgomezamaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danielgomezamaran" height="30" width="40" /></a>
 <a href="https://instagram.com/gomezamaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gomezamaran" height="30" width="40" /></a>
 <a href="https://medium.com/@daniel.gomez.amaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daniel.gomez.amaran" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/daniel gomez amaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="daniel gomez amaran" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
