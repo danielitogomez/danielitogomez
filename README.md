@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **everything of IT.**
 
-- 👯 I'm currently collaborating on my [IT Blog](https://www.helloworld-it.com/)
-
-- 🤝 I’m collaborating with [dulcedimagio web site](https://dulcedimagio.com/)
+- 🤝 I’m currently collaborating with [dulcedimagio web site](https://dulcedimagio.com/)
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/danielitogomez)
 
-- 📝 I regularly write articles on [IT Blog helloworld-it](https://www.helloworld-it.com/)
+- 📝 I regularly write articles on my blog [helloworld-it](https://www.helloworld-it.com/)
 
 - 🔭 I’m currently working as [Indie Game Developer](https://danijarvis.itch.io/)
 
