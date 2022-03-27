@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Daniel Gomez Amarán aka Dani.</h1>
 <h3 align="center">An Electrical, electronic, and telecommunication engineer as a profession. SysAdmin, DevOps, SRE, and Cloud Engineer as occupations. Cybersecurity entrepreneur. Sometimes developer and others times QA Engineer or both, and always Linux and video game lover.</h3>
 
-- 🔭 I’m currently working at [Globant at Sr. Cloud Engineer](https://www.globant.com/)
+- 🔭 I’m currently working at [Globant at Sr. Cloud Engineer](https://www.globant.com/).
 
 - 🌱 I’m currently learning **everything of IT.**
 
-- 🤝 I’m currently collaborating with [dulcedimagio web site](https://dulcedimagio.com/)
+- 🤝 I’m currently collaborating with [dulcedimagio web site](https://dulcedimagio.com/).
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/danielitogomez)
+- 👨‍💻 All of my projects are available at [github](https://github.com/danielitogomez).
 
-- 📝 I regularly write articles on my blog [helloworld-it](https://www.helloworld-it.com/)
+- 📝 I regularly write articles on my blog [helloworld-it](https://www.helloworld-it.com/).
 
-- 🔭 I’m currently working as [Indie Game Developer](https://danijarvis.itch.io/)
+- 🔭 I’m currently working as [Indie Game Developer](https://danijarvis.itch.io/).
 
 - 💬 Ask me about **Linux, Kubernetes, Docker, ApiGee, GCP, AWS, Jenkins, terraform, and many things more.**
 
-- 📫 How to reach me **daniel.gomez.amaran@gmail.com**
+- 📫 How to reach me **daniel.gomez.amaran@gmail.com**.
 
-- 📄 Know about my [experiences](https://drive.google.com/drive/folders/1zDfknO7S6WPnaNNkhlHnI2gszEbrf17z?usp=sharing)
+- 📄 Know about my [experiences](https://drive.google.com/drive/folders/1zDfknO7S6WPnaNNkhlHnI2gszEbrf17z?usp=sharing).
 
 - ⚡ Fun fact: **Cuban as born that not dance but play music, Chilean that cook "pastel de choclo" and person of this planet know as earth.**
 
