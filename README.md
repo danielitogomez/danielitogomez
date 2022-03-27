@@ -9,9 +9,9 @@
 
 - 🤝 I’m collaborating with [dulcedimagio web site](https://dulcedimagio.com/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/danielitogomez](https://github.com/danielitogomez)
+- 👨‍💻 All of my projects are available at [github](https://github.com/danielitogomez)
 
-- 📝 I regularly write articles on [https://www.helloworld-it.com/](https://www.helloworld-it.com/)
+- 📝 I regularly write articles on [IT Blog helloworld-it](https://www.helloworld-it.com/)
 
 - 🔭 I’m currently working as [Indie Game Developer](https://danijarvis.itch.io/)
 
@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **daniel.gomez.amaran@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1zDfknO7S6WPnaNNkhlHnI2gszEbrf17z?usp=sharing]
+- 📄 Know about my experiences (https://drive.google.com/drive/folders/1zDfknO7S6WPnaNNkhlHnI2gszEbrf17z?usp=sharing)
 
-- ⚡ Fun fact **Cuban as born that not dance but play music, Chilean that cook "pastel de choclo" and person of this planet know as earth.**
+- ⚡ Fun fact: **Cuban as born that not dance but play music, Chilean that cook "pastel de choclo" and person of this planet know as earth.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
