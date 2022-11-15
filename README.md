@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Gomez Amarán aka Dani.</h1>
 <h3 align="center">An Electrical, electronic, and telecommunication engineer as a profession. SysAdmin, DevOps, SRE, and Cloud Engineer as occupations. Cybersecurity entrepreneur. Sometimes developer and others times QA Engineer or both, and always Linux and video game lover.</h3>
 
-- 🔭 I’m currently working at [Globant at Sr. Cloud Engineer](https://www.globant.com/).
+- 🔭 I’m currently working at [Alter Solutions Benelux at Sr. Cloud Engineer](https://www.alter-solutions.be).
 
 - 🌱 I’m currently learning **everything of IT.**
 
