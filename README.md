@@ -29,6 +29,7 @@
 <a href="https://fb.com/danielgomezamaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danielgomezamaran" height="30" width="40" /></a>
 <a href="https://instagram.com/gomezamaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gomezamaran" height="30" width="40" /></a>
 <a href="https://medium.com/@daniel.gomez.amaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daniel.gomez.amaran" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@HelloWorldIT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@HelloWorldIT" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
