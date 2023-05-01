@@ -17,7 +17,11 @@
 
 - 📫 How to reach me **daniel.gomez.amaran@gmail.com**.
 
-- 📄 Know about my [experiences](https://danielitogomez.github.io/my-cv/).
+- 📄 Know about my [experiences in web CV](https://danielitogomez.github.io/my-cv/).
+
+- 📄 Know about my [experiences in PDF CV](https://drive.google.com/file/d/1PO7D-7ivzZxfA64x-7yz7dGpBZeSSijh/view).
+
+- 📄 You can find [here the links in this web to make easy the search](https://danielitogomez.github.io/).
 
 - ⚡ Fun fact: **Cuban as born that not dance but play music, Chilean that cook "pastel de choclo" and person of this planet know as earth.**
 
