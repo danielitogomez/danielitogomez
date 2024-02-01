@@ -19,7 +19,7 @@
 
 - 📄 Know about my [experiences in web CV](https://danielitogomez.github.io/my-cv/).
 
-- 📄 Know about my [experiences in PDF CV](https://drive.google.com/file/d/1PO7D-7ivzZxfA64x-7yz7dGpBZeSSijh/view).
+- 📄 Know about my [experiences in PDF CV](https://drive.google.com/file/d/1FloT9ouYmaWloTDZnSksPJevf1v108x4/view?usp=sharing).
 
 - 📄 You can find [here the links in this web to make easy the search](https://danielitogomez.github.io/).
 
